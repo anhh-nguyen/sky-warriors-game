@@ -1,0 +1,66 @@
+.t1 {
+-fx-background-image: url('p1_frontcopy.png');
+}
+
+.t1Upgrade {
+-fx-background-image: url('green_upgraded.png');
+}
+
+.t2 {
+-fx-background-image: url('p2_frontcopy.png');
+}
+
+.t2Upgrade {
+-fx-background-image: url('blue_upgraded.png');
+}
+
+.t3 {
+-fx-background-image: url('p3_frontcopy.png');
+}
+
+.t3Upgrade {
+-fx-background-image: url('pink_upgraded.png');
+}
+
+.e1 {
+-fx-background-image: url('white_ghost.png');
+}
+.e2 {
+-fx-background-image: url('blue_ghost.png');
+}
+.e3 {
+-fx-background-image: url('orange_ghost.png');
+}
+.finalBoss {
+-fx-background-image : url('red_ghost.png');
+}
+
+.endPage {
+-fx-font: 16px "Serif";
+-fx-padding: 10;
+-fx-background-image: url('endScreen.png');
+}
+
+.winPage {
+-fx-font: 16px "Serif";
+-fx-padding: 10;
+-fx-background-image: url('winScreen.png');
+}
+
+.bodybg {
+-fx-font: 16px "Serif";
+-fx-padding: 10;
+-fx-background-image: url('bk.png');
+}
+
+.backgroundImages  {
+    -fx-font: 16px "Serif";
+    -fx-background-image: url("platform.png"), url("clouds.png"), url("mappath.png"), url("monuments.png"), url("extras.png");
+    /**RGB of mappath:134,149,149. HEX game map: #869595 66 x 92*/
+}
+
+.thumbnail {
+-fx-font: 16px "Serif";
+-fx-padding: 10;
+-fx-background-image: url('thumbnail.png');
+}
