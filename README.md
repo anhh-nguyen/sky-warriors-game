@@ -1,4 +1,4 @@
-# CS-2340-Project
+# SKY WARRIORS
 
 Test writeups are located in `SkyWarriors/src/test`
 
